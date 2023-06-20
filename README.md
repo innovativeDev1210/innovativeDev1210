@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on developing
 - 🤔 I'm looking for someone to help me and introduce me to any company.
-- 💬 Ask me about lesco.kendy@gmail.com
+- 💬 Ask me about https://t.me/VirusNinja
 - 📫 How to reach me: Skype:live:.cid.a2e1d74135e3a1cc
 
