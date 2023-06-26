@@ -72,3 +72,22 @@ Here are some ideas to get you started:
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=virusninja1210&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virusninja1210&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
+<h1 font-weight="bold">
+  📮 How to reach me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+</h1>
+
+<p align='center'>
+  <a href="mailto:lesco.kendy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://discordapp.com/users/Viru$_Ninja#3356">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://join.skype.com/invite/live:.cid.a2e1d74135e3a1cc" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+  <a href="https://join.skype.com/invite/live:.cid.a2e1d74135e3a1cc" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+</p>
