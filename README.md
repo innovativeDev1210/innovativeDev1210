@@ -67,3 +67,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/jason-genie/jason-genie/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" height="100%"/>
 </div>
+<!--Graph-->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxlevashov&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
