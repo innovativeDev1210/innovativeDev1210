@@ -64,3 +64,7 @@ Here are some ideas to get you started:
   
   ![Snake animation](https://github.com/christianebs/christianebs/blob/output/github-contribution-grid-snake.svg)
 </div>
+<div align="center">
+  
+  ![Snake animation](https://github.com/jason-genie/profile-3d-contrib/profile-night-rainbow.svg)
+</div>
