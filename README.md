@@ -60,3 +60,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/christianebs/christianebs/blob/output/github-contribution-grid-snake.svg)
+</div>
