@@ -88,6 +88,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
   <a href="https://t.me/VirusNinja" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+    <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
