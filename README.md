@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   <a href="https://join.skype.com/invite/live:.cid.a2e1d74135e3a1cc" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-  <a href="https://join.skype.com/invite/live:.cid.a2e1d74135e3a1cc" target="_blank">
+  <a href="https://t.me/VirusNinja" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 </p>
