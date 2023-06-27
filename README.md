@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github.com/jason-genie/jason-genie/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" height="100%"/>
+  <img src="https://github.com/virusninja1210/virusninja1210/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" height="100%"/>
 </div>
 
 <!--Graph-->
