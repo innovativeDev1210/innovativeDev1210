@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Upwork & Freelancer
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Cloud Computing and Rust.
 - 👯 I’m looking to collaborate on developing
 - 🤔 I'm looking for someone to help me and introduce me to any company.
 - 💬 Ask me about https://t.me/VirusNinja
