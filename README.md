@@ -72,10 +72,8 @@ Here are some ideas to get you started:
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=virusninja1210&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virusninja1210&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
-<div>
   
-  ![snake gif](https://github.com/VirusNinja1210/VirusNinja1210/blob/output/github-contribution-grid-snake.gif)
-</div>
+![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)
 
 <h1 font-weight="bold">
   📮 How to reach me
