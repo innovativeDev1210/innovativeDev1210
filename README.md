@@ -5,6 +5,7 @@
 </div>
 
 **Hi, I'm a Senior Web and Blockchain Developer. I have got 7+ years of experience as a web and blockchain developer so I am so confident about my skills. I've developed dozens of websites using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc. Also I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I have developed many successful sites so far with mentioned skills.
+*Developing is my passion and I love being able to tackle new projects and technologies and work with one client as long as possible.
 
 Here are some ideas to get you started:
 
