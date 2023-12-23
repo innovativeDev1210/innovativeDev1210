@@ -86,7 +86,7 @@ Here are some ideas to get you started:
   <a href="mailto:lesco.kendy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://discordapp.com/users/Viru$_Ninja#3356">
+  <a href="https://discordapp.com/users/1118947427060297848">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://join.skype.com/invite/live:.cid.a2e1d74135e3a1cc" target="_blank">
