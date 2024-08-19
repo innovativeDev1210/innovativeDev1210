@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Computing and Rust.
 - 👯 I’m looking to collaborate on developing
 - 🤔 I'm looking for someone to help me and introduce me to any company.
-- 💬 Ask me about https://t.me/VirusNinja
-- 📫 How to reach me: Skype:live:.cid.a2e1d74135e3a1cc
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
