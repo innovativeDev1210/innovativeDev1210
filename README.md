@@ -75,19 +75,3 @@ Here are some ideas to get you started:
 
   ![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.svg)
 </div>
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-
-<p align='center'>
-  <a href="mailto:lesco.kendy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://discordapp.com/users/1118947427060297848">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://join.skype.com/invite/live:.cid.a2e1d74135e3a1cc" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
-</p>
